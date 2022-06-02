@@ -1,0 +1,205 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="animetoplista.xsl"?>
+
+<TopLista>
+    <Anime>
+        <Rank>1</Rank>
+        <Naslov>Fullmetal Alchemist: Brotherhood</Naslov>
+        <Slika url="images/thumb1.jpg" alt="thumb1"/>
+        <BrojEpizoda>64</BrojEpizoda>
+        <Status>Završeno</Status>
+        <Ocjena>9.14</Ocjena>
+    </Anime>
+    <Anime>
+        <Rank>2</Rank>
+        <Naslov>Gintama (4. Sezona)</Naslov>
+        <Slika url="images/thumb2.jpg" alt="thumb2"/>
+        <BrojEpizoda>51</BrojEpizoda>
+        <Status>Završeno</Status>
+        <Ocjena>9.08</Ocjena>
+    </Anime>
+    <Anime>
+        <Rank>3</Rank>
+        <Naslov>Steins;Gate</Naslov>
+        <Slika url="images/thumb3.jpg" alt="thumb3"/>
+        <BrojEpizoda>24</BrojEpizoda>
+        <Status>Završeno</Status>
+        <Ocjena>9.08</Ocjena>
+    </Anime>
+    <Anime>
+        <Rank>4</Rank>
+        <Naslov>Attack on Titan (3. Sezona - 2. dio)</Naslov>
+        <Slika url="images/thumb4.jpg" alt="thumb4"/>
+        <BrojEpizoda>10</BrojEpizoda>
+        <Status>Završeno</Status>
+        <Ocjena>9.07</Ocjena>
+    </Anime>
+    <Anime>
+        <Rank>5</Rank>
+        <Naslov>Spy x Family</Naslov>
+        <Slika url="images/thumb5.jpg" alt="thumb5"/>
+        <BrojEpizoda>12</BrojEpizoda>
+        <Status>U trajanju</Status>
+        <Ocjena>9.05</Ocjena>
+    </Anime>
+    <Anime>
+        <Rank>6</Rank>
+        <Naslov>Gintama (2. Sezona)</Naslov>
+        <Slika url="images/thumb6.jpg" alt="thumb6"/>
+        <BrojEpizoda>51</BrojEpizoda>
+        <Status>Završeno</Status>
+        <Ocjena>9.05</Ocjena>
+    </Anime>
+    <Anime>
+        <Rank>7</Rank>
+        <Naslov>Gintama: The Final (film)</Naslov>
+        <Slika url="images/thumb7.jpg" alt="thumb7"/>
+        <BrojEpizoda>1</BrojEpizoda>
+        <Status>Završeno</Status>
+        <Ocjena>9.05</Ocjena>
+    </Anime>
+    <Anime>
+        <Rank>8</Rank>
+        <Naslov>Hunter x Hunter (2011)</Naslov>
+        <Slika url="images/thumb8.jpg" alt="thumb8"/>
+        <BrojEpizoda>148</BrojEpizoda>
+        <Status>Završeno</Status>
+        <Ocjena>9.05</Ocjena>
+    </Anime>
+    <Anime>
+        <Rank>9</Rank>
+        <Naslov>Fruits Basket: The Final</Naslov>
+        <Slika url="images/thumb9.jpg" alt="thumb9"/>
+        <BrojEpizoda>13</BrojEpizoda>
+        <Status>Završeno</Status>
+        <Ocjena>9.04</Ocjena>
+    </Anime>
+    <Anime>
+        <Rank>10</Rank>
+        <Naslov>Gintama: Enchousen</Naslov>
+        <Slika url="images/thumb10.jpg" alt="thumb10"/>
+        <BrojEpizoda>13</BrojEpizoda>
+        <Status>Završeno</Status>
+        <Ocjena>9.04</Ocjena>
+    </Anime>
+    <Anime>
+        <Rank>11</Rank>
+        <Naslov>Legend of the Galactic Heroes</Naslov>
+        <Slika url="images/thumb11.jpg" alt="thumb11"/>
+        <BrojEpizoda>110</BrojEpizoda>
+        <Status>Završeno</Status>
+        <Ocjena>9.03</Ocjena>
+    </Anime>
+    <Anime>
+        <Rank>12</Rank>
+        <Naslov>Gintama (5. Sezona)</Naslov>
+        <Slika url="images/thumb12.jpg" alt="thumb12"/>
+        <BrojEpizoda>12</BrojEpizoda>
+        <Status>Završeno</Status>
+        <Ocjena>8.99</Ocjena>
+    </Anime>
+    <Anime>
+        <Rank>13</Rank>
+        <Naslov>Kaguya-sama: Love is War - Ultra Romantic</Naslov>
+        <Slika url="images/thumb13.jpg" alt="thumb13"/>
+        <BrojEpizoda>12</BrojEpizoda>
+        <Status>U trajanju</Status>
+        <Ocjena>8.97</Ocjena>
+    </Anime>
+    <Anime>
+        <Rank>14</Rank>
+        <Naslov>March Comes in Like a Lion (2. sezona)</Naslov>
+        <Slika url="images/thumb14.jpg" alt="thumb14"/>
+        <BrojEpizoda>22</BrojEpizoda>
+        <Status>Završeno</Status>
+        <Ocjena>8.96</Ocjena>
+    </Anime>
+    <Anime>
+        <Rank>15</Rank>
+        <Naslov>Gintama</Naslov>
+        <Slika url="images/thumb15.jpg" alt="thumb15"/>
+        <BrojEpizoda>201</BrojEpizoda>
+        <Status>Završeno</Status>
+        <Ocjena>8.95</Ocjena>
+    </Anime>
+    <Anime>
+        <Rank>16</Rank>
+        <Naslov>A Silent Voice (film)</Naslov>
+        <Slika url="images/thumb16.jpg" alt="thumb16"/>
+        <BrojEpizoda>1</BrojEpizoda>
+        <Status>Završeno</Status>
+        <Ocjena>8.95</Ocjena>
+    </Anime>
+    <Anime>
+        <Rank>17</Rank>
+        <Naslov>Violet Evergarden (film)</Naslov>
+        <Slika url="images/thumb17.jpg" alt="thumb17"/>
+        <BrojEpizoda>1</BrojEpizoda>
+        <Status>Završeno</Status>
+        <Ocjena>8.95</Ocjena>
+    </Anime>
+    <Anime>
+        <Rank>18</Rank>
+        <Naslov>Clannad: After Story</Naslov>
+        <Slika url="images/thumb18.jpg" alt="thumb18"/>
+        <BrojEpizoda>24</BrojEpizoda>
+        <Status>Završeno</Status>
+        <Ocjena>8.94</Ocjena>
+    </Anime>
+    <Anime>
+        <Rank>19</Rank>
+        <Naslov>Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare (film)</Naslov>
+        <Slika url="images/thumb19.jpg" alt="thumb19"/>
+        <BrojEpizoda>1</BrojEpizoda>
+        <Status>završeno</Status>
+        <Ocjena>8.93</Ocjena>
+    </Anime>
+    <Anime>
+        <Rank>20</Rank>
+        <Naslov>Code Geass: Lelouch of the Rebellion R2</Naslov>
+        <Slika url="images/thumb20.jpg" alt="thumb20"/>
+        <BrojEpizoda>25</BrojEpizoda>
+        <Status>Završeno</Status>
+        <Ocjena>8.91</Ocjena>
+    </Anime>
+    <Anime>
+        <Rank>21</Rank>
+        <Naslov>Owarimonogatari (2. Sezona)</Naslov>
+        <Slika url="images/thumb21.jpg" alt="thumb21"/>
+        <BrojEpizoda>7</BrojEpizoda>
+        <Status>Završeno</Status>
+        <Ocjena>8.90</Ocjena>
+    </Anime>
+    <Anime>
+        <Rank>22</Rank>
+        <Naslov>Gintama: Silver Soul Arc - Second Half War</Naslov>
+        <Slika url="images/thumb22.jpg" alt="thumb22"/>
+        <BrojEpizoda>14</BrojEpizoda>
+        <Status>Završeno</Status>
+        <Ocjena>8.88</Ocjena>
+    </Anime>
+    <Anime>
+        <Rank>23</Rank>
+        <Naslov>Demon Slayer: Kimetsu no Yaiba Entertainment District Arc</Naslov>
+        <Slika url="images/thumb23.jpg" alt="thumb23"/>
+        <BrojEpizoda>11</BrojEpizoda>
+        <Status>Završeno</Status>
+        <Ocjena>8.88</Ocjena>
+    </Anime>
+    <Anime>
+        <Rank>24</Rank>
+        <Naslov>Your Name (film)</Naslov>
+        <Slika url="images/thumb24.jpg" alt="thumb24"/>
+        <BrojEpizoda>1</BrojEpizoda>
+        <Status>Završeno</Status>
+        <Ocjena>8.87</Ocjena>
+    </Anime>
+    <Anime>
+        <Rank>25</Rank>
+        <Naslov>Attack on Titan: The Final Season</Naslov>
+        <Slika url="images/thumb25.jpg" alt="thumb25"/>
+        <BrojEpizoda>16</BrojEpizoda>
+        <Status>Završeno</Status>
+        <Ocjena>8.85</Ocjena>
+    </Anime>
+</TopLista>
